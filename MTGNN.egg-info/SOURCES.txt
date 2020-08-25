@@ -1,0 +1,7 @@
+README.md
+setup.py
+MTGNN.egg-info/PKG-INFO
+MTGNN.egg-info/SOURCES.txt
+MTGNN.egg-info/dependency_links.txt
+MTGNN.egg-info/requires.txt
+MTGNN.egg-info/top_level.txt
